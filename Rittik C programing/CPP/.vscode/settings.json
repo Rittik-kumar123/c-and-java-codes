@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "1.C": "cpp",
+        "2. taking input from user.C": "cpp",
+        "2taking input from user.C": "cpp",
+        "2.C": "cpp",
+        "3chapter1practiceSet.C": "cpp",
+        "3chapter1practiceSet2.C": "cpp",
+        "3chapter1practiceSet1.C": "cpp",
+        "3_chapter1practiceSet1.C": "cpp",
+        "3_chapter1practiceSet2.C": "cpp",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
